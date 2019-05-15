@@ -1,0 +1,13 @@
+[package]
+name = "facio"
+version = "0.1.0"
+authors = ["Philipp Pfeiffer <pfiff@posteo.de>"]
+description = "A RCON library with a higher-level client"
+edition = "2018"
+license = "MIT"
+repository = "https://github.com/aphorisme/facio"
+readme = "README.md"
+keywords = ["RCON", "network", "game", "binary", "remote"]
+
+[dependencies]
+byteorder = "1.3.1"
