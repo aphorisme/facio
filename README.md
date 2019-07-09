@@ -4,7 +4,7 @@ Small RCON client/lib written in rust, providing a RCON packet wrapper and a
 higher-level RCON client type.
 
 [![Crates.io][crates-badge]][crates-url]
-[![Docs](https://docrs.rs/facio/badge.svg)
+[Docs](https://docrs.rs/facio/badge.svg)
 
 [crates-badge]: https://img.shields.io/crates/v/facio.svg
 [crates-url]: https://crates.io/crates/facio
